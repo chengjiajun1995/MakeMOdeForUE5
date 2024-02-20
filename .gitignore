@@ -1,0 +1,13 @@
+#---------------
+.vs/
+.idea/
+Binaries/
+Intermediate/
+Saved/
+Build/
+DerivedDataCache/
+
+
+#file
+*.sln
+*.vsconfig
